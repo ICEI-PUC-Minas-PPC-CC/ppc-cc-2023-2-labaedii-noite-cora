@@ -1,4 +1,4 @@
-# TÍTULO DO PROJETO
+# BANCO DE SANGUE
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
 `Disciplina: NOME DA DISCIPLINA`
@@ -6,10 +6,10 @@
 
 ## Integrantes
 
-- Jeff Bezos
-- Bill Gates
-- Larry Ellison
-- Mark Zuckerberg
+- Gabriel Henrique Custodio
+- Kauã Correa
+- Jules Eloísio Moraes
+- Vitor Hugo Granato
 
 # Documentação
 
