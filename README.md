@@ -16,5 +16,6 @@
 | Etapa   |  Atividades |
 |  :----:   | ----------- |
 | ETAPA 1 | Definição dos problemas e formação das equipes |
-| ETAPA 2 | <a href="docs/1-Documentacao-contexto.md"> Documentação de Contexto</a>
+| ETAPA 2 | <a href="docs/1-Documentacao-contexto.md"> Documentação de Contexto</a> |
+| ETAPA 3 | <a href="docs/Especificações do Projeto.md"> Especificações do Projeto</a> |
 
